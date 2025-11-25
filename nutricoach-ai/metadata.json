@@ -1,8 +1,0 @@
-{
-  "name": "NutriCoach AI",
-  "description": "An intelligent personal trainer and nutritionist assistant that captures detailed user data (photos, routine, diet preferences) to generate personalized diet and workout plans using Gemini 2.5.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
